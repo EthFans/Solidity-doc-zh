@@ -19,14 +19,10 @@
 @abao 昨天你调整格式的时候把 Subcurrency Example 那一节连同我翻译的内容误删了，我刚刚恢复了。我觉得还是先把内容翻译出来，链接和格式可以最后统一调整。因为章节名字也会被翻译成中文，所以章节之间的链接肯定是指向新的中文地址。
 
 贡献者名单：
-少平 (http://ethfans.org/shaoping)
 
-abao (http://ethfans.org/abao)
-
-志伟
-
-jinfengbc
-
-大青蛙
-
-zhangyaning (http://ethfans.org/rubyu2)
+* 少平 (http://ethfans.org/shaoping)
+* abao (http://ethfans.org/abao)
+* 志伟
+* jinfengbc
+* 大青蛙
+* zhangyaning (http://ethfans.org/rubyu2)
