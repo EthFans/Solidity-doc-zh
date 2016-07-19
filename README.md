@@ -20,8 +20,13 @@
 
 贡献者名单：
 少平 (http://ethfans.org/shaoping)
+
 abao (http://ethfans.org/abao)
+
 志伟
+
 jinfengbc
+
 大青蛙
+
 zhangyaning (http://ethfans.org/rubyu2)
